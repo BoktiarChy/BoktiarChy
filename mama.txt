@@ -1,0 +1,8 @@
+I am very good today 
+
+Hi mama
+
+
+1) Data Science: using data to provide value
+2) Data Viz: seeing data
+3) Machine Learning: using compute
